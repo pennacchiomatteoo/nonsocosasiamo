@@ -1,10 +1,10 @@
-site_name: My Docs
+site_name: NonSoCosaSiamo
 site_url: https://mydomain.org/mysite
 theme: 
   name: material
   theme:
   palette: 
- ![Logo](assets/logo.png)
+
 
 
     # Palette toggle for light mode
