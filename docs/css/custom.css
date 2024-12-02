@@ -1,5 +1,4 @@
 .md-header__button.md-logo img {
-    height: 5401px; /* Altezza personalizzata */
-    width: auto;   /* Mantieni proporzioni */
-    max-height: none; /* Ignora eventuali restrizioni del tema */
+    height: 250px !important; /* Cambia altezza */
+    width: auto !important;
 }
