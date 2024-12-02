@@ -1,5 +1,5 @@
 .md-header__button--logo {
-  max-height: 1417px;
+  max-height: auto;
   width: auto;
 }
 
