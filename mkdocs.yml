@@ -2,7 +2,7 @@ site_name: NonSoCosaSiamo
 site_url: https://mydomain.org/mysite
 theme: 
   name: material
-  logo: image/logo.png
+  
   theme:
 
   palette: 
