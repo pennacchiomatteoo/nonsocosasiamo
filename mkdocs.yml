@@ -4,7 +4,9 @@ theme:
   name: material
   logo: image/logo.png
   theme:
-  
+  extra_css:
+      - css/custom.css
+
   palette: 
 
 
