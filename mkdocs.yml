@@ -4,6 +4,8 @@ theme:
   name: material
   theme:
   palette: 
+ ![Logo](assets/logo.png)
+
 
     # Palette toggle for light mode
     - scheme: default
