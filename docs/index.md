@@ -1,3 +1,3 @@
 # Welcome in NonSoCosaSiamo
 
-[Foto](home/logo.png)
+[Foto](home/logo.jpg)
