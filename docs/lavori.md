@@ -6,4 +6,4 @@ Bicchiere in 3D realizzato con Blender. E' stata un' avventura simpatica ma non 
 
 Ho voluto poi sperimentare Tinkercad nel realizzare sempre un bicchiere. L'idea è di realizzarlo, poi, un pochino più sofisticato.
  ![Foto](bicchiere/tink.bicchiere.jpg)
-  
+ [Scarica la foto](bicchiere/tink.bicchiere.jpg)
